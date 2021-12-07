@@ -1,5 +1,5 @@
 ﻿# kurstest
-Test für digital humanities Kurs 2020
+Test für digital humanities Kurs 2021
 
 Hallo!
 
@@ -20,8 +20,5 @@ Hallihallo
 hallo
 
 
-
-
-
-
 Dieser Satz ist von mir. Dieser Satz ist auch von mir.
+
