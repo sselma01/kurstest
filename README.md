@@ -1,5 +1,5 @@
 ﻿# kurstest
-Test für digital humanities Kurs 2020
+Test für digital humanities Kurs 2021
 
 Hallo!
 
@@ -20,3 +20,4 @@ Hallihallo
 hallo
 
 änderung, noch ein neuer Satz.
+
